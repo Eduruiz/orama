@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "foundation-sites": "^6.6.3",
+    "lodash": "^4.17.20",
     "vue": "^2.6.11"
   },
   "devDependencies": {
